@@ -1,0 +1,10 @@
+[project]
+name = "habits-visualizer"
+version = "0.1.0"
+description = "Visualization and analysis for data from open source project Loop Habits"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "pandas>=2.2.3",
+]
