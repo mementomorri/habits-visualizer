@@ -1,6 +1,6 @@
 # habits-visualizer
 
-Visualization and analysis for data from open source project Loop Habits Tracker app.
+Visualization and analysis for data from open source project [Loop Habits Tracker app]([url](https://github.com/iSoron/uhabits)).
 
 ## Features
 
