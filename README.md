@@ -55,21 +55,21 @@ Monthly habit performance comparison
 
 Modify run_analysis.py to:
 
-    Change date ranges for monthly reports
+   - Change date ranges for monthly reports
 
-    Adjust visualization styles
+   - Adjust visualization styles
 
-    Add custom analysis metrics
+   - Add custom analysis metrics
 
 ## Requirements
 
-    Python 3.7+
+   - Python 3.7+
 
-    pandas
+   - pandas
 
-    matplotlib
+   - matplotlib
 
-    numpy
+   - numpy
 
 ## License
 
